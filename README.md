@@ -2,10 +2,10 @@
 
 Были реализованы следующие эндпоинты, которые доступны пользователю:
 
-`/api/files/upload` - загрузить файл в систему
-`/api/files/{fileId}` - получить файл по его id
-`/api/analysis/{fileId}` - выполнить анализ файла по его id
-`/api/analysis/wordcloud/{fileId}` - получить картинку облака слов по id файла
+- `/api/files/upload` - загрузить файл в систему
+- `/api/files/{fileId}` - получить файл по его id
+- `/api/analysis/{fileId}` - выполнить анализ файла по его id
+- `/api/analysis/wordcloud/{fileId}` - получить картинку облака слов по id файла
 
 Также можно посмотреть swagger по эндпониту: `/swagger`
 
